@@ -1,6 +1,6 @@
 # MyVSCodeConfigs
 
-*This will help you in configuring you VS Code to have VIM key bindings* 
+*This will help you in configuring your VS Code to have VIM key bindings* 
 
 Paste the settings.json into your VS Code settings.json
 
